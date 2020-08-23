@@ -1,4 +1,4 @@
-logging_dir"""
+"""
 Sets default args
 
 Note all data format is NHWC because slim resnet wants NHWC.
